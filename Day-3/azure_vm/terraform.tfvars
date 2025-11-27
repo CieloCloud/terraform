@@ -1,4 +1,4 @@
-subscription_id     = "718ff629-0d87-4c2e-971a-1345449b54ad"
+subscription_id     = "azure_sub_id"
 resource_group_name = "terraform-rg"
 location            = "westus2"
 
